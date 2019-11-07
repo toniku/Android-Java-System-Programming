@@ -1,0 +1,1 @@
+tamagotchi colors: green: #64953F, red: #ED2024
